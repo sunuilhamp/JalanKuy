@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JalanKuy</string>
+    <string name="about_name">Sunu Ilham Pradika</string>
+    <string name="about_email">sunuilhamp@gmail.com</string>
+    <string name="about">Tentang</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+</resources>
