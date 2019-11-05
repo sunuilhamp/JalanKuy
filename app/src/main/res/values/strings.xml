@@ -6,4 +6,12 @@
     <string name="name">Name</string>
     <string name="location">Location</string>
     <string name="description">Description</string>
+    <string name="hoby">Hobi</string>
+    <string name="hoby_detail">Berolahraga, bermain game, ngoding</string>
+    <string name="status">Status</string>
+    <string name="status_detail">Jomblo</string>
+    <string name="target_menikah">Target Menikah</string>
+    <string name="target_menikah_detail">Pada umur 25</string>
+    <string name="motto">Motto</string>
+    <string name="motto_detail">Bismillah.. Semoga Lancar</string>
 </resources>

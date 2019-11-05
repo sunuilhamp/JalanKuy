@@ -21,6 +21,7 @@
         <activity android:name=".ui.DetailedActivity"
             android:parentActivityName=".ui.HomeActivity"/>
         <activity android:name=".ui.AboutActivity"
+            android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".ui.HomeActivity"/>
     </application>
 
